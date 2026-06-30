@@ -1,6 +1,6 @@
 cask "wari-sh" do
-  version "0.1.1"
-  sha256 "075f318b58423f4968219bb2b75321d89dee45f78eb8c1c6e72b2ec9dc29c24c"   # → shasum -a 256 dist/wari.sh.dmg
+  version "0.1.2"
+  sha256 "2519f176a0e18882f9b8f0351dec0afc5806677cd72e84e95b3dfac29635ae42"   # → shasum -a 256 dist/wari.sh.dmg
 
   # Public downloads repo (source stays private at hyper-money-org/wari-sh). Attach
   # dist/wari.sh.dmg to a release tagged "v#{version}".
